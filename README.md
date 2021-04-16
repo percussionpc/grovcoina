@@ -1,6 +1,6 @@
 <h1>grovcoin</h1>
 
-<img src="https://www.img.in.th/images/6da7e6dd18b75e5b6cbc3327172697b9.png" width="120px" height="120px">
+<img src="https://github.com/percussionpc/grovcoina/blob/main/src/qt/res/icons/bitcoin.png" width="120px" height="120px">
 blockchain Scrypt[PoW]  Faster transaction.
 <br>
 
@@ -19,5 +19,5 @@ Algorithm	|	Scrypt	|
 Transaction confirmations	|	6 blocks	|
 Mining confirmations	|	101 blocks	|
 Difficulty Retarget	|	10 minutes	|
-Supply	|	84,000,000	|
+Supply	|	1000,000,000	|
 Premine	|	1,850,000	|
